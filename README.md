@@ -1,4 +1,9 @@
-## Hi! I am Daniela 👩‍💻
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4OTJraHl0ZHV4cnowbDNsNzQ5OXdqc3N3bG52ZTZsdjl4dGp4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" align="right">
+
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mN3dicGJ6ZWFsNnM3Z3k4dXBmczh3bTUyMmp5YjVxOTVpY211diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="50"> Hi! I am Daniela  
+
+
+### A little more about me... 👩‍💻 
 
 ```python
 class DanielaToroRivera:
