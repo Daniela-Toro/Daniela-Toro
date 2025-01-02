@@ -1,16 +1,15 @@
-## Hola, soy Daniela Toro
+## Hi! I am Daniela 👩‍💻
 
-<!--
-**Daniela-Toro/Daniela-Toro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class DanielaToroRivera:
+    def __init__(self):
+        self.profession = ["Data Scientist", "Industrial Engineer"]
+        self.code = ["Python"]
+        self.database = ["MongoDB", "Snowflake"]
+        self.level = "Junior"
+        self.ask_me_about = ["Data", "AI", "Tech", "Python"]
+        self.hobbies = ["Music", "Movies", "Anime", "Cooking", "Nature"]
+        self.fun_fact = "I love random facts!"
+    def introduce(self):
+        return f"Hi, I'm {self.profession[0]} and {self.profession[1]}, passionate about data and innovation! I'm always curious to learn something new"
+daniela = DanielaToroRivera()
+print(daniela.introduce())
