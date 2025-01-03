@@ -2,8 +2,6 @@
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21mN3dicGJ6ZWFsNnM3Z3k4dXBmczh3bTUyMmp5YjVxOTVpY211diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="50"> Hi! I am Daniela  
 
-[![Linkedin: danielatororivera](https://img.shields.io/badge/-Daniela%20Toro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielatororivera-p-singh/)](www.linkedin.com/in/danielatororivera)
-
 ### A little more about me... 👩‍💻 
 
 ```python
